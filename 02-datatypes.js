@@ -6,9 +6,10 @@ alert(3+3)
 we are using nodejs , not browser
 */
 
-let name = "pintu"
+let myName = "pintu"
 let age = 25
 let isLoggedIn = true
+const bigNumber = 123344432233327498934894398n
 
 //1.Primitive Types
 //string => ""
@@ -21,6 +22,22 @@ let isLoggedIn = true
 
 //2.Non-Primitive/Reference Types
 //object => key value pairs
+//fuctions
+//array
+
+const hero = ["pintu","tarun", "vikash"]
+console.log(hero)
+
+let myObj = {
+    name: "pintu",
+    age: 25,
+}
+
+console.log(myObj)
+
+const myfunction = function() {
+    console.log("hello ji");
+}
 
 console.log(typeof "pintu")
 console.log(typeof 25)
