@@ -13,7 +13,10 @@ console.log(newArr);
 // myArr.push(6)
 // myArr.pop()
 
-myArr
+// myArr.unshift(1)
+// myArr.shift()
 console.log(myArr);
+console.log(myArr.includes(10)); //find number in array as true and false
 
+console.log(myArr.indexOf(3))
 
