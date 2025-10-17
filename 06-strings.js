@@ -8,7 +8,7 @@ const anime = "demon slayer"
 console.log(anime);
 
 
-const animeName = new String("bluelock")
+const animeName = new String("BLUE LOCK")
 console.log(animeName);
 
 //strings various method
