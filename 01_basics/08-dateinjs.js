@@ -26,6 +26,7 @@ console.log(newDate.getMonth())
 console.log(newDate.getDay())
 
 console.log(`todays date is ${newDate.toDateString()} and year is ${newDate.getFullYear()} and month is ${newDate.getMonth()} day is ${myDate.getDate()} `)
+console.log(`todays date is ${newDate.toDateString()} and year is ${newDate.getFullYear()} and month is ${newDate.getMonth()}  `)
 
 //to coustomize date and time
 newDate.toLocaleString('default',{
