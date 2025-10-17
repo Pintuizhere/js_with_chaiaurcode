@@ -29,5 +29,5 @@ console.log(`todays date is ${newDate.toDateString()} and year is ${newDate.getF
 
 //to coustomize date and time
 newDate.toLocaleString('default',{
-
+n 
 })
