@@ -10,8 +10,10 @@ console.log(newArr);
 
 // Array Method
 
-myArr.push(6)
+// myArr.push(6)
+// myArr.pop()
 
+myArr
 console.log(myArr);
 
 
