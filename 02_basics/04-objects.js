@@ -63,3 +63,15 @@ const users = [
 
 console.log(users[1].email)
 
+//destructoring of object - give long name into short name
+
+const course = {
+    coursename: "javascript",
+    price: "1000",
+    courseInstructor: "chaiaurcode"
+}
+
+const {courseInstructor: instructor} = course
+console.log(instructor);
+
+
