@@ -74,4 +74,9 @@ const course = {
 const {courseInstructor: instructor} = course
 console.log(instructor);
 
+/* destructuring in react.js
+const navbar = ({company})=> {
 
+}
+navbar(company = "techio")
+*/
